@@ -1,0 +1,5 @@
+ya.ru
+mail.ru
+google.com
+192.168.0.1
+1.1.1.1
